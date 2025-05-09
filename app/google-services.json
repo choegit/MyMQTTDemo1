@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758314631309",
+    "project_id": "mymqttdemo1",
+    "storage_bucket": "mymqttdemo1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758314631309:android:64d6926e44ff94edac62c4",
+        "android_client_info": {
+          "package_name": "com.example.mymqttdemo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9fTdkkVilBKgSjZG4GsxJCO8adibqZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
